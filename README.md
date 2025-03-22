@@ -1,5 +1,5 @@
 <h1 align="center">Hey , I'm Tufeeq Mushtaq</h1>
-<h3 align="center">Currently pursuing a B.Sc. in Information Technology, I am passionate about leveraging technology to solve real-world problems and create innovative solutions. With hands-on experience in HTML, CSS, and developing web projects, I am eager to expand my expertise in web development.</h3>
+<h3 align="center">Currently pursuing a B.Sc. in Information Technology, I am passionate about leveraging technology to solve real-world problems and create innovative solutions. With hands-on experience in HTML, CSS, JavaScript and developing web projects, I am eager to expand my expertise in web development.</h3>
 
 - 📫 How to reach me **tufeeqmushtaq000@gmail.com**
 
